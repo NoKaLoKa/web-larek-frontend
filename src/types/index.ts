@@ -7,13 +7,6 @@ export interface ICard {
     price: string;
 }
 
-export interface IBasket {
-    item: {
-        title: string;
-        price: string;
-    }
-}
-
 export interface IDeliveryForm  {
     payment: string;
     adress: string;
