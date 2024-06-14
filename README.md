@@ -1,4 +1,7 @@
-# Проектная работа "Веб-ларек"
+# Сервис для заказа навыков
+![](https://github.com/NoKaLoKa/web-larek-frontend/assets/34033274/c8319297-2785-4693-9d5c-f7dff194f0d3)
+
+## О проекте
 
 Стек: HTML, SCSS, TS, Webpack
 
